@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1> Anujan </h1>
+<p>This is good work</p>
+
+
+<img src= "snowflake.jpg" style="height:350px;width:350px0px;" >
+<div style="float: right;"><IMG SRC="snowflake.jpg"> </div>
+
+</body>
+</html>
